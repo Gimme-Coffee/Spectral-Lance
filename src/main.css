@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    max-width: 1280px;
+    max-height: 720px;
+}
